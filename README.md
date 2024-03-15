@@ -4,9 +4,9 @@
   <a href = "mailto:ana.paraujosanto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-paula-araujo-22bb69267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-- 👀 Atualmente estudo Análise e desenvolvimento de sistemas <br>
-- ⚡ Apaixonada por jogos e tecnologias
-- 😄 Fascinada em aprender coisas novas
+-  Atualmente estudo Análise e desenvolvimento de sistemas <br>
+-  Apaixonada por jogos e tecnologias
+-  Fascinada em aprender coisas novas
 
   </div><br>
 
